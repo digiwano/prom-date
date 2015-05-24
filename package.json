@@ -1,0 +1,27 @@
+{
+  "name": "prom-date",
+  "version": "1.0.0",
+  "description": "Turns a Date object into a promise that resolves on that date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digiwano/prom-date.git"
+  },
+  "keywords": [
+    "promise",
+    "date",
+    "schedule"
+  ],
+  "author": "Rando Christensen <digiwano@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digiwano/prom-date/issues"
+  },
+  "homepage": "https://github.com/digiwano/prom-date#readme",
+  "dependencies": {
+    "lie": "^2.8.1"
+  }
+}
