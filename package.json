@@ -1,6 +1,6 @@
 {
   "name": "prom-date",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Turns a Date object into a promise that resolves on that date",
   "main": "index.js",
   "scripts": {
