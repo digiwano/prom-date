@@ -22,3 +22,5 @@ promDate.extend = function() {
 promDate.setPromise = function(somePromiseLibrary) {
   _Promise = somePromiseLibrary;
 };
+
+module.exports = promDate;
